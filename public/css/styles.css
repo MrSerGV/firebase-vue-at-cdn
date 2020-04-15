@@ -3,10 +3,13 @@ body{
 	margin: 0;
 	background: #fafafa;
   }
-  body,h1,h2,p,a,input{
+  body,h1,p,a,input{
 	color: #555;
 	font-family: Consolas, Arial;
 	text-decoration: none;
+  }
+  h2{
+	  font-size: 18px;
   }
   ul{
 	margin: 0;
